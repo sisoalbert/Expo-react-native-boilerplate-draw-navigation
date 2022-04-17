@@ -40,6 +40,7 @@ _Below is an example of how you can instruct your audience on installing and set
     ],
 
    ```
+   Finally, run ```expo r -c ```. to clear the cache
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -73,7 +74,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-sirra_alber - [@sisoalbert](https://twitter.com/sirra_albert) - email@example.com
+sirra_albert - [@sisoalbert](https://twitter.com/sirra_albert) - email@example.com
 
 Project Link: [https://github.com/sisoalbert/Expo-react-native-boilerplate-draw-navigation/](https://github.com/sisoalbert/Expo-react-native-boilerplate-draw-navigation/)
 
